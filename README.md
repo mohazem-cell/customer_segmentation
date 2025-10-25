@@ -1,4 +1,3 @@
-// ...existing code...
 # customer_segmentation
 
 This repository contains a simple customer segmentation project that explores, preprocesses, and clusters mall customer data to produce customer segments and a base clustering model.
